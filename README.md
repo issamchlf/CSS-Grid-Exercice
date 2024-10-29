@@ -12,7 +12,7 @@ This project is made by :
 - ISSAM
 
 
-## 🚀 About Us
+## 🚀 About Me
 My name is Issam Chellaf a full stack developer, studying bootCamp of web devlopment in Factoria 5
 
 
